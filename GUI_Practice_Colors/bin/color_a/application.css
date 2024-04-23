@@ -1,0 +1,68 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.textFill { 
+	-fx-fill: white;
+	-fx-font-size: 20px;
+}
+
+.textTitle{
+	-fx-font-size: 20px;
+}
+
+.rect {
+}
+
+.yellow{
+	-fx-fill: yellow;
+/*	-fx-translate-x: 100;
+	-fx-translate-y: 50; */
+}
+
+.yellowOrange{
+	-fx-fill: #FFAE42;
+}
+
+.orange{
+	-fx-fill: orange;
+}
+
+.redOrange{
+	-fx-fill: #FF5349;
+}
+
+.red{
+	-fx-fill: red;
+}
+
+.redViolet{
+	-fx-fill: #C71585;
+}
+
+.violet{
+	-fx-fill: violet;
+}
+
+.blueViolet{
+	-fx-fill: #8A2BE2;
+}
+
+.blue{
+	-fx-fill: blue;
+}
+
+.blueGreen{
+	-fx-fill: #0D98BA;
+}
+
+.green{
+	-fx-fill: green;
+}
+
+.yellowGreen{
+	-fx-fill: #9ACD32;
+}
+
+.rect-selected {
+	-fx-stroke: green;
+	-fx-stroke-width: 5;
+}

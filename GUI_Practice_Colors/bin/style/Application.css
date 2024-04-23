@@ -1,0 +1,40 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.bodyBackground{
+}
+
+.textFill { 
+	-fx-fill: black;
+	-fx-font-size: 20px;
+}
+
+.rect {
+}
+
+.red{
+	-fx-fill: red;
+	-fx-translate-x: 50;
+	-fx-translate-y: 75;
+}
+
+.stackBg{
+	-fx-fill: white;
+	-fx-font-size: 20px;
+}
+
+.blue{
+	-fx-fill: blue;	
+	-fx-translate-x: 150;
+	-fx-translate-y: 75;
+}
+
+.yellow{
+ 	-fx-fill: yellow;	
+	-fx-translate-x: 100;
+	-fx-translate-y: 75;
+}
+
+.rect-selected {
+	-fx-stroke: black;
+	-fx-stroke-width: 5;
+}
